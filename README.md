@@ -1,8 +1,7 @@
 # Speech_Lab
 This repository contains my lab works for the Speech Processing Lab offered in IIT Dharwad. 
 This Lab is designed to understand basic of speech production and some digital signal processing methods to analyse speech sound.
-The lab is divided into 10 weeks in total, a set of specific tasks is performed in each week to understand the concepts of speech processing.
-The lab directly follows the Speech Signal Processing Laboratory of amrita vlab. For more info about amrita vlabs visit link below.
+The lab is divided into 10 weeks in total. A set of specific tasks is performed in each week to understand the concepts of speech processing. The lab directly follows the Speech Signal Processing Laboratory of amrita vlab. For more info about amrita vlabs visit link below.
 
 Vlab Link: https://vlab.amrita.edu/index.php?sub=59&brch=164
 
