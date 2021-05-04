@@ -10,3 +10,4 @@ Vlab Link: https://vlab.amrita.edu/index.php?sub=59&brch=164
 2. EE-414 Lab-i pdf file contains the detailed informatation about the tasks to be performed in ith week's lab.
 3. Labi.ipynb file is the python notebook that execute the tasks for ith week's lab.
 4. Labi.pdf file is the pdf version of the python notebook for ith week's lab.
+5. All the audio files used in ith lab is placed in Week-i folder.
